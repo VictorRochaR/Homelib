@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "170511762759",
+    "project_id": "ativ2-f11e7",
+    "storage_bucket": "ativ2-f11e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170511762759:android:ef4ca401f7f819c7823862",
+        "android_client_info": {
+          "package_name": "com.ativ2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170511762759-c1qd3iucqcgbjj9ukj9tuiqr5utjif8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnoCwnLvmNxK8ndPOqQ0ZrgRANJk9SOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170511762759-c1qd3iucqcgbjj9ukj9tuiqr5utjif8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170511762759:android:cd49ee5235600cf1823862",
+        "android_client_info": {
+          "package_name": "com.homeliv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170511762759-c1qd3iucqcgbjj9ukj9tuiqr5utjif8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnoCwnLvmNxK8ndPOqQ0ZrgRANJk9SOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170511762759-c1qd3iucqcgbjj9ukj9tuiqr5utjif8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
